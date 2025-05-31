@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Daniel Feliciano Vieira Brandão!
 
 <div align="center">
-  <a href="https://github.com/SEU_USERNAME_AQUI"> <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Visualizações do Perfil" />
+  <a href="https://github.com/daniel3243gg"> <img src="https://komarev.com/ghpvc/?username=daniel3243gg&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Visualizações do Perfil" />
   </a>
 </div>
 
@@ -66,8 +66,8 @@ Estas são algumas das ferramentas e tecnologias com as quais tenho experiência
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/SEU_USERNAME_AQUI"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&card_width=490"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&langs_count=8&theme=radical&border_radius=10&card_width=320"/>
+  <a href="https://github.com/daniel3243gg"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel3243gg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&card_width=490"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3243gg&layout=compact&langs_count=8&theme=radical&border_radius=10&card_width=320"/>
     </a>
 </div>
 

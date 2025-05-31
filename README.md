@@ -14,7 +14,7 @@
 
 <br/>
 
-Sou um **Engenheiro de Software** [cite: 1, 27] apaixonado por desenvolvimento mobile e por transformar ideias em soluções **inovadoras, divertidas e intuitivas**. [cite: 27] Com formação Full Stack pela EBAC e cursando Análise e Desenvolvimento de Sistemas no BioPark Educação, meu foco é utilizar a tecnologia para resolver problemas de forma eficaz e elegante.
+Sou um **Engenheiro de Software**  apaixonado por desenvolvimento mobile e por transformar ideias em soluções **inovadoras, divertidas e intuitivas**.  Com formação Full Stack pela EBAC e cursando Análise e Desenvolvimento de Sistemas no BioPark Educação, meu foco é utilizar a tecnologia para resolver problemas de forma eficaz e elegante.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -26,10 +26,10 @@ Sou um **Engenheiro de Software** [cite: 1, 27] apaixonado por desenvolvimento m
 
 ## 🚀 Sobre Mim
 
-- 👨‍💻 **Engenheiro de Software Pleno em Flutter na Calory Sistema**, onde lidero o desenvolvimento de aplicativos desde o planejamento até a integração com a base de dados. [cite: 27, 28]
+- 👨‍💻 **Engenheiro de Software Pleno em Flutter na Calory Sistema**, onde lidero o desenvolvimento de aplicativos desde o planejamento até a integração com a base de dados. 
 - 🎓 Desenvolvedor Full Stack em formação pela EBAC e cursando **Análise e Desenvolvimento de Sistemas no BioPark Educação** (Previsão de Conclusão: 06/2027).
 - 💡 Apaixonado por desafios, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-- 🎯 Focado em criar **soluções práticas, eficientes, modernas e responsivas**. [cite: 21]
+- 🎯 Focado em criar **soluções práticas, eficientes, modernas e responsivas**. 
 - 🏋️‍♂️ Entusiasta de **academia** e **esportes de luta** para manter o equilíbrio.
 
 ---
@@ -107,8 +107,8 @@ Estou sempre em busca de conhecimento! No momento, meu foco está em:
   </a>
 </p>
 
-**Bibliotecas e Frameworks Python:** Requests, Pandas, Beautiful Soup, Seaborn. [cite: 3]
-**Outras Competências:** Arquitetura MVC, GitFlow, Google Colab, Bots. [cite: 64]
+**Bibliotecas e Frameworks Python:** Requests, Pandas, Beautiful Soup, Seaborn. 
+**Outras Competências:** Arquitetura MVC, GitFlow, Google Colab, Bots. 
 
 ---
 
@@ -129,70 +129,69 @@ Estou sempre em busca de conhecimento! No momento, meu foco está em:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3243gg&layout=compact&langs_count=8&theme=radical&border_radius=10&card_width=320"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://github.com/daniel3243gg/daniel3243gg/raw/output/github-contribution-grid-snake.svg" alt="Cobrinha de Contribuições do GitHub"> </p>
+
 
 ---
 
 ## ✨ Projetos em Destaque
 
-Aqui estão alguns projetos que me orgulho de ter participado ou desenvolvido. Mais detalhes sobre eles podem ser encontrados no meu LinkedIn. [cite: 34, 50, 53, 58]
+Aqui estão alguns projetos que me orgulho de ter participado ou desenvolvido. Mais detalhes sobre eles podem ser encontrados no meu LinkedIn. 
 
 <details>
-  <summary>🐍 <strong>Nexus Manage - Sistema de Gestão para Vendedores do Mercado Livre</strong> [cite: 54, 58]</summary>
+  <summary>🐍 <strong>Nexus Manage - Sistema de Gestão para Vendedores do Mercado Livre</strong> </summary>
   <br/>
   <p>
-    Plataforma robusta para otimizar a rotina de vendedores do Mercado Livre, automatizando vendas, gerenciando estoque e gerando relatórios. [cite: 56, 57]
+    Plataforma robusta para otimizar a rotina de vendedores do Mercado Livre, automatizando vendas, gerenciando estoque e gerando relatórios. 
     <br/>
-    <strong>Minha Contribuição:</strong> Liderança no desenvolvimento do back-end. [cite: 55]
+    <strong>Minha Contribuição:</strong> Liderança no desenvolvimento do back-end. 
     <br/>
-    <strong>Tecnologias:</strong> MySQL, Peewee (ORM Python), FastAPI. [cite: 54]
+    <strong>Tecnologias:</strong> MySQL, Peewee (ORM Python), FastAPI. 
   </p>
 </details>
 
 <details>
-  <summary>☕ <strong>Projeto Csbar - Aplicativo Mobile para Maquininhas de Cartão (Stone)</strong> [cite: 59]</summary>
+  <summary>☕ <strong>Projeto Csbar - Aplicativo Mobile para Maquininhas de Cartão (Stone)</strong> </summary>
   <br/>
   <p>
-    Solução para controle integrado de mesas, tickets e pagamentos em bares e restaurantes, utilizando maquininhas Stone. [cite: 59]
+    Solução para controle integrado de mesas, tickets e pagamentos em bares e restaurantes, utilizando maquininhas Stone. 
     <br/>
-    <strong>Minha Contribuição:</strong> Desenvolvimento do front-end em Flutter e integração nativa com a Stone. [cite: 60]
+    <strong>Minha Contribuição:</strong> Desenvolvimento do front-end em Flutter e integração nativa com a Stone. 
     <br/>
-    <strong>Tecnologias:</strong> Flutter. [cite: 60]
+    <strong>Tecnologias:</strong> Flutter. 
   </p>
 </details>
 
 <details>
-  <summary>🍎 <strong>Sistema ERP FrutNorte (Desktop)</strong> [cite: 45]</summary>
+  <summary>🍎 <strong>Sistema ERP FrutNorte (Desktop)</strong> </summary>
   <br/>
   <p>
-    Sistema ERP desktop para controle de cadastros, produtos (entrada/saída) e acesso. [cite: 46]
+    Sistema ERP desktop para controle de cadastros, produtos (entrada/saída) e acesso. 
     <br/>
     <strong>Minha Contribuição:</strong> Desenvolvimento completo do sistema.
     <br/>
-    <strong>Tecnologias:</strong> Flutter (Desktop), MySQL, GetX, flutter_hooks, bitsdojo_window. [cite: 45, 47]
+    <strong>Tecnologias:</strong> Flutter (Desktop), MySQL, GetX, flutter_hooks, bitsdojo_window. 
   </p>
 </details>
 
 <details>
-  <summary>📚 <strong>Aplicativo Android/iOS de Livros (Mangás)</strong> [cite: 41]</summary>
+  <summary>📚 <strong>Aplicativo Android/iOS de Livros (Mangás)</strong> </summary>
   <br/>
   <p>
-    Aplicativo móvel para leitura de mangás asiáticos, com funcionalidades de recomendação, lançamentos, pesquisa e perfil de usuário. [cite: 41, 42, 43, 44]
+    Aplicativo móvel para leitura de mangás asiáticos, com funcionalidades de recomendação, lançamentos, pesquisa e perfil de usuário. 
     <br/>
     <strong>Minha Contribuição:</strong> Desenvolvimento em andamento.
     <br/>
-    <strong>Tecnologias:</strong> Flutter, API online. [cite: 41]
+    <strong>Tecnologias:</strong> Flutter, API online. 
   </p>
 </details>
 
 <details>
-  <summary>🤖 <strong>Bot do Discord</strong> [cite: 40]</summary>
+  <summary>🤖 <strong>Bot do Discord</strong> </summary>
   <br/>
   <p>
-    Bot para Discord com diversas integrações, como jogos (xadrez, truco), utilitários (envio de e-mails) e sistema de ranks/moedas. [cite: 40]
+    Bot para Discord com diversas integrações, como jogos (xadrez, truco), utilitários (envio de e-mails) e sistema de ranks/moedas. 
     <br/>
-    <strong>Tecnologias:</strong> Python, Banco de Dados Azure. [cite: 40]
+    <strong>Tecnologias:</strong> Python, Banco de Dados Azure. 
   </p>
 </details>
 

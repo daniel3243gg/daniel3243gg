@@ -23,7 +23,7 @@
 
 ---
 
-Dois anos desenvolvendo apps Flutter em produção, da arquitetura à entrega. Golang para o back-end, AWS para a infra, Clean Architecture como padrão. O caos é o material bruto; o código, a estrela dançante.
+Dois anos construindo apps Flutter em produção: UI, lógica de negócio, integração com APIs e banco de dados. Golang no back-end, AWS na infra, Clean Architecture como referência. O caos é o material bruto; o código, a estrela dançante.
 
 Formando em ADS pelo BioPark Educação (conclusão: jun/2027). Fora do teclado: academia e esportes de luta.
 
@@ -32,7 +32,7 @@ Formando em ADS pelo BioPark Educação (conclusão: jun/2027). Fora do teclado:
 ## Experiência
 
 **Flutter Pleno &nbsp;·&nbsp; Calory Sistema** &nbsp;`mar/2024 – nov/2025`  
-Desenvolvimento de apps Android e iOS em Flutter do zero: estrutura do projeto, interface, integração com APIs e banco de dados.
+Desenvolvimento de telas, integrações com APIs e banco de dados em apps Android e iOS. Participei do ciclo completo dos projetos, da interface ao back-end.
 
 **Dev Treiner &nbsp;·&nbsp; BZS Tecnologia** &nbsp;`mar/2023 – dez/2023`  
 PHP7, Python, Yii2, HTML, Bootstrap e JavaScript. Criação de funcionalidades e suporte de rotinas com entrega dentro do prazo.
